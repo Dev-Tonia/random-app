@@ -1,4 +1,6 @@
 # random_app
+![Screenshot (26)](https://user-images.githubusercontent.com/80988202/166389994-81096abb-0299-498c-bea2-2bf1d046cd42.png)
+
 
 A new Flutter project.
 
